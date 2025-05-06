@@ -103,7 +103,7 @@ local Section = Tab:CreateSection("Mobile Scripts")
 local Button = Tab:CreateButton({
    Name = "Load Official Script | MOBILE Supported",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-best/refs/heads/main/pc-supported.lua",true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-best/refs/heads/main/FTAP-Scripture.lua",true))()
    end,
 })
 
@@ -169,6 +169,7 @@ local Tab = Window:CreateTab("Fixing Scripts", 4483362458)
 local Section = Tab:CreateSection("Fixing Right Now")
 local Label = Tab:CreateLabel("Send Bugs in our Discord Server!", 4483362458, Color3.fromRGB(75, 0, 130), false)
 local Label = Tab:CreateLabel("Fixing Scripture Loop-Kick! - Flashh", 4483362458, Color3.fromRGB(75, 0, 130), false)
+local Label = Tab:CreateLabel("Fixing Scripture Loop-Kill! - Flashh", 4483362458, Color3.fromRGB(75, 0, 130), false)
 
 
 local Tab = Window:CreateTab("Credits", 4483362458)
