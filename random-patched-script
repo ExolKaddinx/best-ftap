@@ -182,8 +182,7 @@ local Button = Tab:CreateButton({
 local Tab = Window:CreateTab("Fixing Scripts", 4483362458)
 local Section = Tab:CreateSection("Fixing Right Now")
 local Label = Tab:CreateLabel("Send Bugs in our Discord Server!", 4483362458, Color3.fromRGB(75, 0, 130), false)
-local Label = Tab:CreateLabel("Fixing Scripture Loop-Kick! - Flashh", 4483362458, Color3.fromRGB(75, 0, 130), false)
-local Label = Tab:CreateLabel("Fixing Scripture Loop-Kill! - Flashh", 4483362458, Color3.fromRGB(75, 0, 130), false)
+local Label = Tab:CreateLabel("2 Bugs Fixed, No More Bugs!", 4483362458, Color3.fromRGB(75, 0, 130), false)
 
 
 local Tab = Window:CreateTab("Credits", 4483362458)
