@@ -65,7 +65,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Scripture Loop-Kill",
    Callback = function()
-   print("Broken")
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-script/refs/heads/main/new-loop-kill",true))()
    end,
 })
 
@@ -145,7 +145,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Scripture Loop-Kill",
    Callback = function()
-   print("Broken")
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-script/refs/heads/main/new-loop-kill",true))()
    end,
 })
 
