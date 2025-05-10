@@ -72,7 +72,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Scripture Loop-Kick",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-best/refs/heads/main/loop-kick",true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-script/refs/heads/main/new-loop-kick",true))()
    end,
 })
 
@@ -152,7 +152,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Scripture Loop-Kick",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-best/refs/heads/main/loop-kick",true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ExolKaddinx/scripture-script/refs/heads/main/new-loop-kick",true))()
    end,
 })
 
