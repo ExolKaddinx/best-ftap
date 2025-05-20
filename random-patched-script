@@ -19,7 +19,7 @@ local Window = Rayfield:CreateWindow({
         FileName = "TestKey",
         SaveKey = false,
         GrabKeyFromSite = false,
-        Key = {"Hub3481"}
+        Key = {"boom2314"}
     }
 })
 
